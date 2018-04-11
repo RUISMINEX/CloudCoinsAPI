@@ -1,5 +1,7 @@
-name: CloudCoins
-version: 1.0.0
-api: 3.0.0-ALPHA11
-auhthor: RUISMINE
-website: voltagemcbe.cf
+name:   CloudCoinsAPI
+version: 1.6.0-beta
+api: [3.0.0-ALPHA11]
+description: "Economy plugin using MYSQL as the database"
+author: RUISMINE
+website: https://github.com/RUISMINE
+main: CC\main
