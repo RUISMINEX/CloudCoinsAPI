@@ -1,7 +1,7 @@
 # CloudCoinsAPI
 This plugin uses MYSQL to store coins data for each individual player.
 
-# PLEASE NOTE THAT THIS PLUGIN WILL NOT WORK WITHOUT A MYSWQL DATABASE
+# PLEASE NOTE THAT THIS PLUGIN WILL NOT WORK WITHOUT A MYSQL DATABASE
 
 You can set the Host, Username and password in the cinfig file.
 
