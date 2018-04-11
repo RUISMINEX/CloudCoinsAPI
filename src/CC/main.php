@@ -10,7 +10,7 @@ use pocketmine\Server;
 
 
 
-class main extends PluginBase implements Listener{
+class main extends PluginBase{
 
 public function onEnable()
 {
