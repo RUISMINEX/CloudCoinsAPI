@@ -4,4 +4,7 @@ branches:
 projects:
   CloudCoinsAPI:
     path: ""
+    libs:
+      - src: CC/main
+        version: 1.0.0
 ...
