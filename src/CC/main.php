@@ -1,5 +1,7 @@
 <?php
 
+namespace CC;
+
 use pocketmine\plugin\PluginBase;
 use pocketmine\Player;
 use pocketmine\utils\Config;
